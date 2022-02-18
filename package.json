@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tarojs/taro": "^3.4.1"
+  }
+}
